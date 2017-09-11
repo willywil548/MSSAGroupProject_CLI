@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Student>
-    <StudentID>1</StudentID>
-    <FirstName>Rob</FirstName>
-    <LastName>Wilson</LastName>
-    <TrackStudents>0</TrackStudents>
-  </Student>
-  <Student>
-    <StudentID>2</StudentID>
-    <FirstName>Regina</FirstName>
-    <LastName>Arnett</LastName>
-    <TrackStudents>0</TrackStudents>
-  </Student>
-  <Student>
-    <StudentID>3</StudentID>
-    <FirstName>Martin</FirstName>
-    <LastName>Papa</LastName>
-    <TrackStudents>0</TrackStudents>
-  </Student>
-  <Student>
-    <StudentID>4</StudentID>
-    <FirstName>Sheldon</FirstName>
-    <LastName>Hart</LastName>
-    <TrackStudents>0</TrackStudents>
-  </Student>
-  <Student>
-    <StudentID>10</StudentID>
-    <FirstName>Jake</FirstName>
-    <LastName>Moudy</LastName>
-    <TrackStudents>0</TrackStudents>
   </Student>
 </ArrayOfStudent>
